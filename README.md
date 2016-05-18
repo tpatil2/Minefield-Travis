@@ -1,7 +1,7 @@
 # Minefield
 
-##  Image link [https://travis-ci.org/tpatil2/Minefield-Travis.svg?branch=master]
-##  (check out travis status at)[https://travis-ci.org/tpatil2/Minefield-Travis/builds]
+###  Image link - https://travis-ci.org/tpatil2/Minefield-Travis.svg?branch=master
+###  check out travis status at- https://travis-ci.org/tpatil2/Minefield-Travis/builds
 
 
 
